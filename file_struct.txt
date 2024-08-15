@@ -1,0 +1,20 @@
+chiro_app/
+│
+├── main.py
+├── requirements.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── patient_info.py
+│   ├── soap_notes.py
+│   ├── treatment_plan.py
+│   ├── progress_tracker.py
+│   └── patient_summary.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── data_handler.py
+│   └── visualizations.py
+│
+└── data/
+    └── (This folder will store your JSON and CSV files)

@@ -1,0 +1,71 @@
+{
+    "patient_id": "",
+    "visit_date": "2024-07-31",
+    "chief_complaint": "w3rw3r",
+    "pain_location": [
+        "Upper Back"
+    ],
+    "pain_characteristics": [
+        "Burning"
+    ],
+    "pain_level": 5,
+    "pain_frequency": "Intermittent",
+    "aggravating_factors": [
+        "Walking",
+        "Lifting"
+    ],
+    "relieving_factors": [
+        "Heat",
+        "Stretching"
+    ],
+    "affected_activities": [
+        "Exercise",
+        "Work"
+    ],
+    "associated_symptoms": [
+        "Nausea",
+        "Weakness"
+    ],
+    "vital_signs": true,
+    "blood_pressure": "345",
+    "heart_rate": 17,
+    "respiratory_rate": 12,
+    "temperature": 35.1,
+    "height_ft": 23,
+    "height_in": 9,
+    "weight_lbs": 19,
+    "cervical_spine_flexion": 106,
+    "cervical_spine_extension": 105,
+    "thoracic_spine_flexion": 106,
+    "thoracic_spine_extension": 68,
+    "lumbar_spine_flexion": 115,
+    "lumbar_spine_extension": 60,
+    "shoulders_flexion": 106,
+    "shoulders_extension": 63,
+    "hips_flexion": 123,
+    "hips_extension": 67,
+    "ortho_straight_leg_raise": "Negative",
+    "ortho_kernig_sign": "Negative",
+    "ortho_brudzinski_sign": "Not Performed",
+    "ortho_spurling_test": "Negative",
+    "ortho_valsalva_maneuver": "Negative",
+    "neuro_deep_tendon_reflexes": "",
+    "neuro_muscle_strength": "",
+    "neuro_sensation": "",
+    "palpation": "sefsefsefsefsef",
+    "diagnosis": "hdftrhfthft",
+    "differential_diagnosis": "hfthsesef",
+    "prognosis": "Very Good",
+    "treatment_provided": [
+        "Electrical Stimulation",
+        "Ultrasound",
+        "Exercise Prescription"
+    ],
+    "treatment_frequency": "3x per week",
+    "treatment_duration": "12 weeks",
+    "home_care_instructions": "sefsgdrhgytfthjf",
+    "follow_up": "2024-07-24",
+    "referrals": [
+        "Blood Work"
+    ]
+}

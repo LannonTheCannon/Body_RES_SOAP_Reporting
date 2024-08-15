@@ -1,0 +1,60 @@
+{
+    "patient_name": "Lannon Khau",
+    "patient_id": "123",
+    "dob": "2024-08-01",
+    "gender": "Female",
+    "contact_number": "626 985 4589",
+    "email": "khaulannon@gmail.com",
+    "visit_date": "2024-08-01",
+    "visit_time": "13:16:00",
+    "occupation": "Professional Squirrel Milker",
+    "height_ft": 12.0,
+    "height_in": 29.0,
+    "weight_lbs": 0.0,
+    "emergency_name": "Lord Kombucha",
+    "emergency_relation": "Father",
+    "emergency_number": "945 354 7578",
+    "medical_history": "medical history alpha",
+    "current_medications": "Current medications beta",
+    "allergies": "current allergies charlie",
+    "exercise_frequency": "3-4 times/week",
+    "exercise_types": [
+        "Weightlifting",
+        "Walking",
+        "Swimming"
+    ],
+    "sleep_hours": 4,
+    "stress_level": 6,
+    "previous_chiro": "Yes",
+    "primary_complaint": "current complaint - epsilon",
+    "pain_onset": "2024-08-01",
+    "pain_cause": "fell off a ladder ",
+    "pain_characteristics": {
+        "sharp": {
+            "intensity": 7,
+            "frequency": "Intermittent"
+        },
+        "shooting": {
+            "intensity": 3,
+            "frequency": "Constant"
+        },
+        "aching": {
+            "intensity": 9,
+            "frequency": "Intermittent"
+        },
+        "burning": {
+            "intensity": 1,
+            "frequency": "Constant"
+        },
+        "tingling": {
+            "intensity": 8,
+            "frequency": "Constant"
+        },
+        "numbness": {
+            "intensity": 1,
+            "frequency": "Constant"
+        }
+    },
+    "consent": true,
+    "privacy_agreement": true
+}

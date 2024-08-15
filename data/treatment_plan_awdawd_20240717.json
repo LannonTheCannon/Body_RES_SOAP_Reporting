@@ -1,0 +1,58 @@
+{
+    "patient_name": "awdawd",
+    "patient_id": "awdawd",
+    "diagnosis": "awdawdaw",
+    "plan_start_date": "2024-07-17",
+    "plan_duration": "6 months",
+    "initial_phase": "2x per week",
+    "maintenance_phase": "1x per month",
+    "treatment_modalities": [
+        "Electrical Stimulation",
+        "Extremity Manipulation",
+        "Spinal Manipulation",
+        "Mechanical Traction"
+    ],
+    "chiro_techniques": [
+        "Gonstead Technique",
+        "Thompson Technique",
+        "Applied Kinesiology",
+        "Flexion-Distraction"
+    ],
+    "treatment_areas": [
+        "Shoulders",
+        "Thoracic Spine",
+        "Cervical Spine",
+        "Wrists",
+        "Lumbar Spine"
+    ],
+    "exercises": [
+        "Strengthening",
+        "Balance Training",
+        "Ergonomic Training",
+        "Core Stability"
+    ],
+    "exercise_frequency": "3x per week",
+    "home_care": "awdfdsregdrg",
+    "short_term_goals": "est5reyr5y",
+    "long_term_goals": "rede4te4t",
+    "outcome_measures": [
+        "Patient-Specific Functional Scale (PSFS)",
+        "Oswestry Disability Index (ODI)",
+        "Range of Motion Measurements",
+        "Neck Disability Index (NDI)"
+    ],
+    "precautions": "rf5yesteswt",
+    "lifestyle_changes": [
+        "Stress Management",
+        "Sleep Hygiene",
+        "Diet Modifications"
+    ],
+    "referrals": [
+        "None",
+        "Pain Management Specialist",
+        "Rheumatologist",
+        "Orthopedic Surgeon"
+    ],
+    "reevaluation_frequency": "Every 6 weeks",
+    "informed_consent": true
+}
